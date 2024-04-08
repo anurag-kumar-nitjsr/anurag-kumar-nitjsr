@@ -42,11 +42,13 @@ Each certification is a milestone in my continuous learning journey to keep abre
 
 - https://auth.geeksforgeeks.org/user/anuragnarayan
 
-### 📢 Support or Contact
-
-👨🏻‍💻 Please feel free to get in touch, I'll be happy to help! 💁🏻‍♂️ [Email](mailto:mr.anmandal@gmail.com)
-
----
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/anuragkumar-nitjsr/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/anuragkumar-nitjsr/" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/https://www.hackerrank.com/profile/anurag_kumar51" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/profile/anurag_kumar51" height="30" width="40" /></a>
+<a href="https://www.hackerearth.com/https://www.hackerearth.com/@anurag-kumar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="https://www.hackerearth.com/@anurag-kumar" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/https://auth.geeksforgeeks.org/user/anuragnarayan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://auth.geeksforgeeks.org/user/anuragnarayan" height="30" width="40" /></a>
+</p>
 
 <div align="center">
   
