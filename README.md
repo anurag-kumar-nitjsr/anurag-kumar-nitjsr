@@ -1,6 +1,6 @@
 ### Hi there <img src="https://raw.githubusercontent.com/rohit-wadhwa/rohit-wadhwa/master/images/Hi.gif" width="20px">
 
-<img align="left" height="200" src="https://cdn.pixabay.com/photo/2023/07/01/11/21/ai-generated-8100000_1280.png">
+<img align="left" height="200" src="https://cdn.pixabay.com/photo/2024/03/15/19/51/ai-generated-8635685_1280.png">
 <div>
 I'm Anurag Kumar, a passionate and creative front-end developer with over 1.5 years of experience in user-friendly websites and applications. I specialize in HTML, CSS, JavaScript, and have a strong grasp of frameworks like React and Spring.
 
