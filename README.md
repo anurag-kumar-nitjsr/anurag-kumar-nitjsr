@@ -2,7 +2,7 @@
 
 <img align="left" height="200" src="https://drive.google.com/drive/u/0/folders/1TZVY0hqVFafsLSxjA2PNr6K38ARDGKKs">
 <div>
-I'm Anurag Kumar, a passionate and creative front-end developer with over 1.5 years of experience in crafting engaging, user-friendly websites and applications. I specialize in HTML, CSS, JavaScript, and have a strong grasp of frameworks like React and Spring.
+I'm Anurag Kumar, a passionate and creative front-end developer with over 1.5 years of experience in user-friendly websites and applications. I specialize in HTML, CSS, JavaScript, and have a strong grasp of frameworks like React and Spring.
 
 My journey began with a simple curiosity for how websites work, which quickly turned into a passion for web development. I love the challenge of turning complex problems into elegant solutions and believe that a great user experience starts with a clean, responsive design.
 
@@ -16,7 +16,7 @@ Let's create something amazing together!
 
 **Welcome to my corner of GitHub! Here's a little about what I'm up to:**
 - 🔭 I’m currently working at [Samsung SDS](https://www.samsungsds.com/) where I contribute to building cutting-edge web applications using React.
-- 💬 Feel free to ask me about `JavaScript`, `Spring` and `React`. I love discussing technology and sharing knowledge.
+- 💬 Feel free to ask me about `HTML`,`CSS`, `JavaScript` and `React`. I love discussing technology and sharing knowledge.
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/anuragkumar-nitjsr/)
 - 📄 Latest Resume can be found here: [Anurag Kumar - Resume](https://drive.google.com/file/d/1r23VBr3MW3fZglcPTKTZRfwujGJs7-KE/view?usp=drive_link)
 - 😄 Pronouns: He/Him (Pronunciation: [a nu - r ag] [k u m - ar])
@@ -41,10 +41,6 @@ Each certification is a milestone in my continuous learning journey to keep abre
 ### ⏱️ Coding Activity
 
 - https://auth.geeksforgeeks.org/user/anuragnarayan
-
-### 💼 Professional Skills
-
-Highlighting your expertise in `React`, `Spring` and other technologies here can provide a quick snapshot of your capabilities to visitors.
 
 ### 📢 Support or Contact
 
