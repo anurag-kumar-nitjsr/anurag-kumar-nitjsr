@@ -2,7 +2,7 @@
 
 <img align="left" height="215" src="https://camo.githubusercontent.com/9792d43627b178fd4a45bcabb3647d7b34a62d64baf96a19abf6ea19d5cea8dd/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f313138373833362f73637265656e73686f74732f363533393432392f70726f6772616d65722e676966">
 <div>
-I'm Anurag Kumar, a passionate and creative front-end developer with over 1.5 years of experience in user-friendly websites and applications. I specialize in HTML, CSS, JavaScript, and have a strong grasp of frameworks like React and Spring.
+I'm Anurag Kumar, a passionate and creative front-end developer with over 1.5 years of experience in user-friendly websites and applications. I specialize in HTML, CSS, Java, JavaScript and have a strong grasp of frameworks like React and Spring boot.
 
 My journey began with a simple curiosity for how websites work, which quickly turned into a passion for web development. I love the challenge of turning complex problems into elegant solutions and believe that a great user experience starts with a clean, responsive design.
 
@@ -16,7 +16,7 @@ Let's create something amazing together!
 
 **Welcome to my corner of GitHub! Here's a little about what I'm up to:**
 - 🔭 I’m currently working at [Samsung SDS](https://www.samsungsds.com/) where I contribute to building cutting-edge web applications using React.
-- 💬 Feel free to ask me about `HTML`,`CSS`, `JavaScript` and `React`. I love discussing technology and sharing knowledge.
+- 💬 Feel free to ask me about `HTML`,`CSS`,`Java` `JavaScript` and `React` `Spring boot`. I love discussing technology and sharing knowledge.
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/anuragkumar-nitjsr/)
 - 📄 Latest Resume can be found here: [Anurag Kumar - Resume](https://drive.google.com/file/d/1r23VBr3MW3fZglcPTKTZRfwujGJs7-KE/view?usp=drive_link)
 - 😄 Pronouns: He/Him (Pronunciation: [a nu - r ag] [k u m - ar])
