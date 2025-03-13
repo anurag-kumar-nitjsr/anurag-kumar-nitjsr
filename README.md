@@ -17,9 +17,9 @@ Let's create something amazing together!
 
 **Welcome to my corner of GitHub! Here's a little about what I'm up to:**
 - 🔭 I’m currently working at [Samsung SDS](https://www.samsungsds.com/) where I contribute to building cutting-edge web applications using React.
-- 💬 Feel free to ask me about `HTML`,`CSS`,`Java` `JavaScript` and `React` `Spring boot`. I love discussing technology and sharing knowledge.
+- 💬 Feel free to ask me about `HTML`,`CSS`,`Java` `JavaScript` `React` and `Spring boot`. I love discussing technology and sharing knowledge.
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/anuragkumar-nitjsr/)
-- 📄 Latest Resume can be found here: [Anurag Kumar - Resume](https://drive.google.com/file/d/1r23VBr3MW3fZglcPTKTZRfwujGJs7-KE/view?usp=drive_link)
+- 📄 Latest Resume can be found here: [Anurag Kumar - Resume](https://drive.google.com/file/d/1-F23fsnhCwxMlOIFbbgjOLQxt14LWNF5/view?usp=sharing)
 - 😄 Pronouns: He/Him (Pronunciation: [a nu - r ag] [k u m - ar])
 
 ### 🎨 Dynamic Contributions
