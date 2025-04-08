@@ -41,7 +41,7 @@ Each certification is a milestone in my continuous learning journey to keep abre
 
 ### ⏱️ Coding Activity
 
-- https://auth.geeksforgeeks.org/user/anuragnarayan
+- https://www.geeksforgeeks.org/user/anuragkumar0007/
 
 <h3 align="left">Connect with me:</h3>
 
