@@ -3,7 +3,7 @@
 <img align="left" height="215" src="[https://camo.githubusercontent.com/9792d43627b178fd4a45bcabb3647d7b34a62d64baf96a19abf6ea19d5cea8dd/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f313138373833362f73637265656e73686f74732f363533393432392f70726f6772616d65722e676966](https://as1.ftcdn.net/v2/jpg/06/20/51/32/1000_F_620513203_mQfPJaYP4mdUkm7mTw3BOKTOzZK2RU5U.jpg)">
 <img align="left" height="215" src="">
 <div>
-I'm Anurag Kumar, a passionate and creative front-end developer with over 1.5 years of experience in user-friendly websites and applications. I specialize in HTML, CSS, Java, JavaScript and have a strong grasp of frameworks like React and Spring boot.
+I'm Anurag Kumar, a passionate and creative front-end developer with over 2+ years of experience in user-friendly websites and applications. I specialize in HTML, CSS, Java, JavaScript and have a strong grasp of frameworks like React and Spring boot.
 
 My journey began with a simple curiosity for how websites work, which quickly turned into a passion for web development. I love the challenge of turning complex problems into elegant solutions and believe that a great user experience starts with a clean, responsive design.
 
@@ -16,10 +16,10 @@ Let's create something amazing together!
 <br clear="left"/>
 
 **Welcome to my corner of GitHub! Here's a little about what I'm up to:**
-- 🔭 I’m currently working at [Samsung SDS](https://www.samsungsds.com/) where I contribute to building cutting-edge web applications using React.
+- 🔭 I worked as a Senior Executive at Samsung SDS, where I contributed to building cutting-edge web applications using Spring boot, React.
 - 💬 Feel free to ask me about `HTML`,`CSS`,`Java` `JavaScript` `React` and `Spring boot`. I love discussing technology and sharing knowledge.
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/anuragkumar-nitjsr/)
-- 📄 Latest Resume can be found here: [Anurag Kumar - Resume](https://drive.google.com/file/d/1-F23fsnhCwxMlOIFbbgjOLQxt14LWNF5/view?usp=sharing)
+- 📫 How to reach me: [LinkedIn]()
+- 📄 Latest Resume can be found here: [Anurag Kumar - Resume]()
 - 😄 Pronouns: He/Him (Pronunciation: [a nu - r ag] [k u m - ar])
 
 ### 🎨 Dynamic Contributions
@@ -35,13 +35,14 @@ Proudly acquired certifications that underscore my expertise in web development 
 
 - NIMCET AIR 607 (Conducted by NIT Suratkal) 
 - Samsung SDS Intern Certificate
-- Samsung SDS Experiance Letter (1.5y)
+- Samsung SDS Experiance Letter
 
 Each certification is a milestone in my continuous learning journey to keep abreast of the latest advancements and contribute effectively to the field of Web Development.
 
 ### ⏱️ Coding Activity
 
 - https://www.geeksforgeeks.org/user/anuragkumar0007/
+- 
 
 <h3 align="left">Connect with me:</h3>
 
