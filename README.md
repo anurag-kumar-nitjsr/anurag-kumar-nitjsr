@@ -39,10 +39,6 @@ Proudly acquired certifications that underscore my expertise in web development 
 
 Each certification is a milestone in my continuous learning journey to keep abreast of the latest advancements and contribute effectively to the field of Web Development.
 
-### ⏱️ Coding Activity
-
-- 
-- 
 
 <h3 align="left">Connect with me:</h3>
 
