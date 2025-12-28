@@ -1,6 +1,6 @@
 ### Hi there <img src="https://raw.githubusercontent.com/rohit-wadhwa/rohit-wadhwa/master/images/Hi.gif" width="20px">
 
-<img align="left" height="215" src="[https://camo.githubusercontent.com/9792d43627b178fd4a45bcabb3647d7b34a62d64baf96a19abf6ea19d5cea8dd/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f313138373833362f73637265656e73686f74732f363533393432392f70726f6772616d65722e676966](https://as1.ftcdn.net/v2/jpg/06/20/51/32/1000_F_620513203_mQfPJaYP4mdUkm7mTw3BOKTOzZK2RU5U.jpg)">
+<img align="left" height="215" src="">
 <img align="left" height="215" src="">
 <div>
 I'm Anurag Kumar, a passionate and creative front-end developer with over 2+ years of experience in user-friendly websites and applications. I specialize in HTML, CSS, Java, JavaScript and have a strong grasp of frameworks like React and Spring boot.
