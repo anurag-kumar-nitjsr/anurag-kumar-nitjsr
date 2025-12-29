@@ -18,7 +18,7 @@ Let's create something amazing together!
 **Welcome to my corner of GitHub! Here's a little about what I'm up to:**
 - 🔭 I worked as a Senior Executive at Samsung SDS, where I contributed to building cutting-edge web applications using Spring boot, React.
 - 💬 Feel free to ask me about `HTML`,`CSS`,`Java` `JavaScript` `React` and `Spring boot`. I love discussing technology and sharing knowledge.
-- 📫 How to reach me: [LinkedIn]("https://www.linkedin.com/in/anuragkumar-nitjsr/")
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/anuragkumar-nitjsr/)
 - 📄 Latest Resume can be found here: [Anurag Kumar - Resume]()
 - 😄 Pronouns: He/Him (Pronunciation: [a nu - r ag] [k u m - ar])
 
