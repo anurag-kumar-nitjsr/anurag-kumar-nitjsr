@@ -56,10 +56,12 @@ Each certification is a milestone in my continuous learning journey to keep abre
   <img src="https://visitor-badge.laobi.icu/badge?page_id=anurag-kumar-nitjsr.anurag-kumar-nitjsr&"  />
 </div>
 
-###
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anurag-kumar-nitjsr&show_icons=true&locale=en&layout=compact" alt="anurag-kumar-nitjsr" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anurag-kumar-nitjsr&show_icons=true&locale=en" alt="anurag-kumar-nitjsr" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anurag-kumar-nitjsr&" alt="anurag-kumar-nitjsr" /></p>
+
+###
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anurag-kumar-nitjsr&show_icons=true&locale=en&layout=compact" alt="anurag-kumar-nitjsr" /></p>
