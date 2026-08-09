@@ -16,7 +16,7 @@ Let's create something amazing together!
 <br clear="left"/>
 
 **Welcome to my corner of GitHub! Here's a little about what I'm up to:**
-- 🔭 I worked as a Software Engineer at TRUEBLUE IT CONSULTING SERVICES, where I contributed to building scalable backend applications using Java, Spring Boot, Spring Security, REST APIs, Microservices, and MySQL. Previously, I worked at Luma Software Solution as a Java Developer and Samsung SDS on SAP Commerce (Hybris) solutions.
+- 🔭 I worked as a Software Engineer at TRUEBLUE IT CONSULTING SERVICES, where I contributed to building scalable backend applications using Java, Spring Boot, Spring Security, REST APIs, Microservices, and MySQL. Previously, I also worked at Luma Software Solution as a Java Developer and Samsung SDS on SAP Commerce (Hybris) solutions.
 - 💬 Feel free to ask me about `HTML`,`CSS`,`Java` `JavaScript` `React` and `Spring boot`. I love discussing technology and sharing knowledge.
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/anuragkumar-nitjsr/)
 - 📄 Latest Resume can be found here: [Anurag Kumar - Resume]()
